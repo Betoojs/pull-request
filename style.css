@@ -21,10 +21,11 @@ ul{
     border: 1px solid red;
 }
 
-.btn-inserir{
-    width: 2000px;
+#btn-inserir{
+    width: 200px;
     height: 40px;
-    color: blue;
+    background-color: blue;
+    color: white;
     border: 2px solid yellow;
 
 }

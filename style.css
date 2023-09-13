@@ -4,10 +4,21 @@ body{
     box-sizing: border-box;
 }
 
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+input {
+  border-radius: 8px;
 
 .btn-inserir{
     width: 2000px;
     height: 40px;
     color: blue;
     border: 2px solid yellow;
+
 }
